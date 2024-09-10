@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there, I'm Rahul Chobdar 👋
 
 ## About Me
--I am a B.Tech CSE student passionate about Machine Learning and Artificial Intelligence.
+- I am a B.Tech CSE student passionate about Machine Learning and Artificial Intelligence.
 I love exploring new technologies and applying them to solve real-world problems.
 
 ## Skills
